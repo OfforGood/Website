@@ -1,3 +1,8 @@
-a=input( )
+a=set( )
+a.add(1)
+a.add(2)
+a.add(4)
+a.add(5)
+a.remove(1)
 print(a)
- 
+print(f"the set has {len(a)} of elements") 
