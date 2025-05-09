@@ -5,5 +5,5 @@ if num>0:
 elif num<0:
   print("Number is negative")
 else:
-  print("munber is 0")
-
+  print("munber is= 0")
+b
